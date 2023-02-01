@@ -1,4 +1,4 @@
-This project can monitor past broadcasts from broadcastify and download them for analysis and transciption.
+This project can monitor broadcasts from broadcastify and download them for analysis and transciption.
 
 This happens in three parts:
 
