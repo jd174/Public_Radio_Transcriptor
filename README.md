@@ -14,4 +14,7 @@ To collect past broadcasts a premium membership to https://www.broadcastify.com/
 
 The transcriptor utilizes GPU Acceleration to function at full capacity. If you do not have a CUDA capable GPU or would like to process on your CPU, set FP16 to "False" in the config file. It is recommended to also consider using a smaller model if using a CPU to transcript (See whisper github fro more info) 
  
- 
+Sample output from a broadcast:
+
+![image](https://user-images.githubusercontent.com/94761039/216113596-394be1f5-e2c7-4818-b244-57d800418e1c.png)
+
