@@ -6,7 +6,7 @@ This happens in three parts:
   
   2. After an MP3 is downloaded it is scrubbed to remove all silent portions of the audio and all volume levels are normalized. This improves transcription speeds and accuracy
   
-  3. Modified MP3 is then Transcripted and analyzed by OpenAI's Whisper. All relevant information is retained in both JSON and CSV format. FOr more info on whisper you can find the project here: https://github.com/openai/whisper
+  3. Modified MP3 is then Transcripted and analyzed by OpenAI's Whisper. All relevant information is retained in both JSON and CSV format. For more info on whisper you can find the project here: https://github.com/openai/whisper
   
 
 To collect past broadcasts a premium membership to https://www.broadcastify.com/ is required. Once acquired, simply sign into Broadcastify in the web and copy the cookies from your browser into the config file of this project.
